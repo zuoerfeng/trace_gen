@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1456128269 source:d:\codeblocksproj\408sim_alpha4\tracegen\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1461204784 source:c:\users\administrator\desktop\华为代码\408sim_alpha4\408sim_alpha4\tracegen\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1461204784 source:c:\users\administrator\desktop\408sim(debug2) -duplicate123\408sim(debug2) -duplicate\408sim_beta2\tracegen\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1463302017 source:c:\users\administrator\desktop\408sim(parallization_5.9)\408sim(parallization)\408sim(debug2) -duplicate\408sim_beta2\tracegen\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1463710499 source:c:\users\administrator\desktop\408sim_compress\tracegen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1463904400 source:c:\users\administrator\desktop\408sim_compress(correct)\tracegen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1463904400 source:c:\users\administrator\desktop\华为代码\408sim_encode(correct)\tracegen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1467622195 source:c:\users\administrator\desktop\tracegen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"main.h"
+
+1467613171 c:\users\administrator\desktop\tracegen\main.h
+
+1470623206 source:c:\users\administrator\desktop\已提交文档\tracegen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"main.h"
+
+1470622702 c:\users\administrator\desktop\已提交文档\tracegen\main.h
+
